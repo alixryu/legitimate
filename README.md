@@ -14,11 +14,11 @@ Welcome to Oberlin College Computer Science Department's Git Night Fall 2015
 * starting a new repository (init)
 
 ### Lonely Git (using git with one local repository)
-* recording changes to a repository (status, add, diff, commit, .gitignore)
+* recording changes to a repository (status, add, diff, commit)
+* ignoring files (.gitignore [gitignore.io](https://www.gitignore.io))
 * branching (branch, checkout)
 * merging (merge)
 * viewing git logs (log)
-
 
 ### Sociable Git (using git with multiple people on a remote repository)
 * remote repositories (remote, push, pull, fetch)
@@ -34,10 +34,17 @@ Welcome to Oberlin College Computer Science Department's Git Night Fall 2015
 * issue tracking
 * writing in (github flavored) markdown
 
-
 ### Git Flow (acquiring a professional convention)
 [git-flow cheat sheet](http://danielkummer.github.io/git-flow-cheatsheet/)
-: excellent summary by Daniel Kummer
+ : excellent summary by Daniel Kummer
+
+### Advanced Git Tools (some of many)
+* alias
+* stash
+* submodule
+* patch
+* pull --rebase
+* Vim Fugitive
 
 ## Sources
 [pro-git](https://git-scm.com/book/en/v2): legitimate online source!
