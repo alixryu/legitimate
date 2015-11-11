@@ -18,7 +18,7 @@ Welcome to Oberlin College Computer Science Department's Git Night Fall 2015
 * ignoring files (.gitignore [gitignore.io](https://www.gitignore.io))
 * branching (branch, checkout)
 * merging (merge)
-* viewing git logs (log)
+* viewing logs (log)
 
 ### Sociable Git (using git with multiple people on a remote repository)
 * remote repositories (remote, push, pull, fetch)
